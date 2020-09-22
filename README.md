@@ -20,9 +20,9 @@ There are some really great projects and scripts for finding sensitive informati
   - https://www.youtube.com/watch?v=l0YsEk_59fQ
 
 # Setup
-1. git clone https://github.com/techspence/gitdork.sh.git
-2. Review dorks.txt & modify as needed
-3. run:  gitdork.sh -u dorks.txt -u <github user>  or  gitdork.sh -u dorks.txt -o <github org>
+1. Run `git clone https://github.com/techspence/gitdork.sh.git`
+2. Review `dorks.txt` & modify as needed
+3. run:  `gitdork.sh -u dorks.txt -u <github user>`  or  `gitdork.sh -u dorks.txt -o <github org>`
 
 # TODO
 - [ ] Add Slack alert
